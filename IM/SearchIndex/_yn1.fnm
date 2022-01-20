@@ -1,0 +1,14 @@
+þÿÿÿ«NameAlarmLowerLimitColorAlarmUpperLimitColor	BackColorBackFillStyleBarBackColorBarColorBarOrientationBorderBackColorBorderBrightColor3DBorderColorBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3DCaption	EdgeStyleFlashing
+FocusColorFont	ForeColor
+LabelColorPositionFontScalePositionThumbBackColor	TickStyle-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###id###VisulizationRootBrowsableId###SearchFilterIds###ImmediateParentId###ReferenceFieldIdsPropertyNameTagValueForPropertyTagPage###UpdatableParentIdUITypeEditorBitPositionUITypeEditorTagExpressionUITypeEditorStartvalueUITypeEditorEndvalue	GridColor###TargetIdFirstGradientColorHorizontalAlignmentHorizontalPictureAlignmentMiddleGradientColorModePictureAutoSizing	PictureOnSecondGradientColorTextOffTextOnTextOrientationVerticalAlignmentVerticalPictureAlignment###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreTextRangeFromToHelpTextAboveUpperLimitColorBelowLowerLimitColor
+DataFormatFormatPatternUnitAdaptPicture
+AutoSizingPictureTransparentColorTitleLanguageVersionInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentSCL CodeCommentDatatypeAddressTagAddressPanelInfoAddressAccessModeAcquisitionTriggerModeAcquisitionCycleDataTypeConfirmationTypeCoding
+ConnectionPlcNameControllerTagDisplayName	JobNumber
+StartValueId
+TriggerTag
+AlarmClassDelayTimeUnitHysteresisModeInfoText	AlarmTextButtonBackColorButtonBackFillStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorGridlineAxisGridlineColorGridlineFillColorGridlineStyleLayer
+RulerColor
+ScaleColorTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableGridlineColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorTimeAxisModeTimeAxisSideCaptionColorCaptionFontCaptionTextInnerBackColorOffInnerBackColorOn
+PictureOffSwitchOrientation	Functions	LimitMode
+LimitValueAlarmSourceButtonBarStyleColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterTextSelectionBackColorSelectionForeColorSortByTimeDirectionViewTypeAuthorFamilyConstant nameEvent classNetwork titleNetwork commentLADFBD CodeAlarmLogValue
